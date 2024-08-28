@@ -1,0 +1,76 @@
+header{
+    background-color:red;
+    padding:30px ;
+    text-align: center;
+    position: fixed;
+    top:0;
+    width: 100%;
+    font-size:30px;
+}
+.beach{
+    position: absolute;
+    width:400px;
+    height:300px;
+    top: 60%;
+    left: 10px;
+    z-index: -1;
+}
+.tree{
+    position:absolute;
+    z-index: -1;
+    width: 400px;
+    height: 300px;
+    top: 15%;
+    left: 10px;
+} 
+.water{
+    position:absolute;
+    width: 400px;
+    height: 300px;
+    top: 15%;
+    right:10px;
+    z-index: -1;
+}
+.sunset{
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    z-index: -1;
+    top:105%;
+    left: 10px;
+}
+.sun{
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    top: 60%;
+    right: 10px;
+    z-index: -1;
+
+}
+.crops{
+      position: absolute;
+      width: 400px;
+      height: 300px;
+      top: 70%;
+      left: 38%;
+      right: 45px;
+      z-index: -1;
+      border-radius: 10px;
+}
+.sea{
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    top:105%;
+    right: 10px;
+    z-index: -1;
+}
+
+
+
+
+
+    
+
+    
